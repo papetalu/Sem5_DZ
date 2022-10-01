@@ -1,0 +1,15 @@
+D:\GeekBrains\DZ\DZ_5\Sem5_DZ\ZD38\obj\Debug\net6.0\ZD38.csproj.AssemblyReference.cache
+D:\GeekBrains\DZ\DZ_5\Sem5_DZ\ZD38\obj\Debug\net6.0\ZD38.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\DZ\DZ_5\Sem5_DZ\ZD38\obj\Debug\net6.0\ZD38.AssemblyInfoInputs.cache
+D:\GeekBrains\DZ\DZ_5\Sem5_DZ\ZD38\obj\Debug\net6.0\ZD38.AssemblyInfo.cs
+D:\GeekBrains\DZ\DZ_5\Sem5_DZ\ZD38\obj\Debug\net6.0\ZD38.csproj.CoreCompileInputs.cache
+D:\GeekBrains\DZ\DZ_5\Sem5_DZ\ZD38\bin\Debug\net6.0\ZD38.exe
+D:\GeekBrains\DZ\DZ_5\Sem5_DZ\ZD38\bin\Debug\net6.0\ZD38.deps.json
+D:\GeekBrains\DZ\DZ_5\Sem5_DZ\ZD38\bin\Debug\net6.0\ZD38.runtimeconfig.json
+D:\GeekBrains\DZ\DZ_5\Sem5_DZ\ZD38\bin\Debug\net6.0\ZD38.dll
+D:\GeekBrains\DZ\DZ_5\Sem5_DZ\ZD38\bin\Debug\net6.0\ZD38.pdb
+D:\GeekBrains\DZ\DZ_5\Sem5_DZ\ZD38\obj\Debug\net6.0\ZD38.dll
+D:\GeekBrains\DZ\DZ_5\Sem5_DZ\ZD38\obj\Debug\net6.0\refint\ZD38.dll
+D:\GeekBrains\DZ\DZ_5\Sem5_DZ\ZD38\obj\Debug\net6.0\ZD38.pdb
+D:\GeekBrains\DZ\DZ_5\Sem5_DZ\ZD38\obj\Debug\net6.0\ZD38.genruntimeconfig.cache
+D:\GeekBrains\DZ\DZ_5\Sem5_DZ\ZD38\obj\Debug\net6.0\ref\ZD38.dll
